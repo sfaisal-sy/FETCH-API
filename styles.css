@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: antiquewhite;
+}
+
+.card {
+    background-color: rgb(26, 17, 17);
+    border: 2px solid wheat;
+    color: red;
+}
+
+.card-img-top {
+    width: 50%;
+    height: 40%;
+    margin: 10px auto;
+    
+}
